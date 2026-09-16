@@ -1,0 +1,6 @@
+{
+  "name": "Tapp - Placas NFC Inteligentes",
+  "description": "Placas NFC personalizadas com acabamento arquitetônico para balcões e mesas comerciais com conexão instantânea para Instagram, WhatsApp, Google Avaliações e cardápios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
